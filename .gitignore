@@ -7,6 +7,7 @@ __pycache__/
 images/.env
 *.log*
 *.py[cod]
+123456*
 
 
 # Django #
